@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: '2348160247341', // replace with your number with country code
-  OWNER_NAME: 'シ', // you owner name 
-  BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the ''
+  OWNER_NUMBERS: '923348544535', // replace with your number with country code
+  OWNER_NAME: 'ABDULLAH ASAD', // you owner name 
+  BOT_NAME: 'AI BASES', // your preferred bot name
+  SESSION_ID: 'kord_ai-TRQkMOs1Rdme', // replace your_sessionid with yours and make sure its inside the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "public",
   TIME_ZONE: "Africa/Lagos",
@@ -13,7 +13,7 @@ global.settings = {
   AUTO_READ_STATUS: true,
   LOG_MESSAGES_AT_CONSOLE: false,
   PREFIX: ["."], 
-  REJECT_CALLS: false,
+  REJECT_CALLS: true,
   GROUP_EVENTS: true,
   DEFAULT_TRANSLATION_LANG: "en",
   VV_CMD: "📥",
